@@ -19,3 +19,7 @@ It provides a user interface for entering points of interest, which are then add
 <sub>The editing interface, and a map created for the nether on [LeigerSMP](https://leigergaming.com/minecraft-leiger-smp)</sub>
 
 ![image](https://user-images.githubusercontent.com/71436104/227728491-0541f29a-8db9-4f31-aab1-674da4758e1e.png)
+
+<sub>Demo showing that you can move the map using either (a) the UI sliders, or (b) with the mouse and scroll wheel</sub>
+
+https://user-images.githubusercontent.com/71436104/229144969-5f8207b4-1655-4449-9a14-58046f14d492.mp4
