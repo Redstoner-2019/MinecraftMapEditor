@@ -1,6 +1,6 @@
 # Minecraft Map Editor
 
-Contact [Redstoner_2019](https://github.com/Redstoner-2019/) with any questions - `Redstoner_2019#0001` on Discord.
+Contact [Redstoner_2019](https://github.com/Redstoner-2019/) with any questions - `redstoner_2019` on Discord.
 
 ## About this project
 
